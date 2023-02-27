@@ -1,0 +1,6 @@
+__pycache__/
+.vscode/
+env/
+
+chat/lock.py
+chat/auth.py
